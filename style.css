@@ -8,8 +8,22 @@ body {
 }
 
 .section1 {
-    width: 80%;
     margin-left: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.my-h {
+    color: #172b4d;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 52px;
+    transition: font-size 3s, color 2s;
+}
+
+.my-h:hover {
+    font-size: 60px;
+    color: #2230d2;
 }
 
 .card {
@@ -18,6 +32,11 @@ body {
     width: 80%;
     gap: 30px;
     margin-left: 10%;
+}
+
+.card1 {
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .card-img-top {
