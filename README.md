@@ -1,3 +1,3 @@
 Portfolio with Bootstrap.
 
-This portfolio is developed using bootstrap framework.
+This portfolio is developed using the Bootstrap framework
